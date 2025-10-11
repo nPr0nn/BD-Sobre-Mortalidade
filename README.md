@@ -1,2 +1,2 @@
-# BD-Sobre-Mortes
+# BD-Sobre-Mortalidade
 ...
